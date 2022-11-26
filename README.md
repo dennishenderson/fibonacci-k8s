@@ -1,0 +1,2 @@
+# fibonacci-k8s
+This is a re-creation of the react web app that was built using microservices architecture, however instead of running this on AWS Elastic Beanstalk, this was re-engineered to run on Kubernetes
